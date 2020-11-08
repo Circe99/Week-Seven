@@ -10,6 +10,8 @@
   
   In contrast with a painting of the western world
   
-  ![Image]()
+  ![Image](western-world.jpg)
+  
+  I'm sorry the sizes are a bit funky.
   
   
