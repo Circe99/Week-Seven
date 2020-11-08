@@ -10,6 +10,6 @@
   
   In contrast with a painting of the western world
   
-  ![Image](western.jpg)
+  ![Image]()
   
   
