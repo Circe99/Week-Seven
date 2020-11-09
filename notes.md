@@ -26,8 +26,8 @@
   
   4. I moved the file from Documents to Code Examples (not sure why that worked but saving it directly didn't, but I will not question my luck)
   
-  Now I have access to the new version I made (though the change is very subtle) 
+  Now I have access to the new version I made (though the change is very subtle) *note the double ended arrow between 1 and 4*
   ![Image](Netlogo(5).png)
   
-  
+  I'm still not finished the activity, and it has taken me a long time to get to this point, but it is not because I am stuck at some annoying error message. Instead it's because I am working with something comepletely new to me so I want to take my time to better understand what it is I'm doing and why it is important. 
   
